@@ -1,4 +1,4 @@
-These are my personal schematic files. 
-You will need [Litematica](https://modrinth.com/mod/litematica) to be able to use these files.
+These are my personal Minecraft schematic files. 
+You will need [Litematica](https://modrinth.com/mod/litematica) to use these files.
 
-When using them, please make sure to attribute this repository.
+If you wish to publicly use these schematic files, please make sure to give credit by using this repository's URL.
